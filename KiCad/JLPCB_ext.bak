@@ -2426,8 +2426,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "JLPCB_ext:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL"
+			(at 0.254 -22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)

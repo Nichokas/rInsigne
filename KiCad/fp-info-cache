@@ -1,4 +1,4 @@
-227370101539287
+229132784603135
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -69145,6 +69145,13 @@ NCP15XH103F03RC
 0
 2
 2
+JLPCB_ext
+QFN50P400X400X100-21N-D
+(ML)20-Lead(QFN)
+Integrated Circuit
+0
+21
+21
 JLPCB_ext
 SMD1812P110TF
 
